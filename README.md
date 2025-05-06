@@ -41,9 +41,5 @@ src/
 └── index.jsx
 ```
 
-## 🌐 Deployment
-Deploy to Vercel or Netlify with one click!
-
----
 
 Made with ❤️ by [ahmed8mansour]
