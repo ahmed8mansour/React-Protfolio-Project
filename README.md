@@ -1,6 +1,6 @@
 # Fantastic React Portfolio Project 🚀
 
-Welcome to my React Portfolio – a stunning showcase of my work built with React.js.
+Welcome to React Portfolio Project – a stunning showcase of my work built with React.js.
 
 ## ✨ Features
 - Modern UI with animations
@@ -20,7 +20,7 @@ Welcome to my React Portfolio – a stunning showcase of my work built with Reac
 ## 🚀 Quick Start
 1. Clone the repo:
    ```sh
-   git clone https://github.com/ahmed8mansour/react-portfolio-.git
+   git clone https://github.com/ahmed8mansour/React-Protfolio-Project.git
    ```
 2. Install dependencies:
    ```sh
